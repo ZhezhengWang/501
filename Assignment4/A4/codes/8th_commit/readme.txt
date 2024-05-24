@@ -1,0 +1,1 @@
+When the program is executed without the input files,it will execute the tests

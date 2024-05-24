@@ -1,0 +1,47 @@
+commit 5f219a2bbcb4bceb871ca23c43789b557ba3d021 (HEAD -> master)
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 17:18:03 2023 -0700
+
+    8th commit： Code with FFT Test
+
+commit 57984c0033d4452e80171b8bd931e03a68158fc3
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 16:45:24 2023 -0700
+
+    7th commit： Reducing floating point precision from double to single
+
+commit eab7c6bae2fbdfa8584da594ea5184bf13d7d35c
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 16:33:09 2023 -0700
+
+    6th commit： reusing a memory array instead of a new one to optimize cache access.
+
+commit 3f4602603316038b51d10710f94957dbc20f8d5a
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 15:54:39 2023 -0700
+
+    5th commit： removed a division operation from an inner loop
+
+commit 5723381f3c4cf50a4a3d2d3ce38dccbc1444b2d3
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 15:45:50 2023 -0700
+
+    4th commit： optimization 2 - removed scaling of the imaginary part at the end of fft.
+
+commit f51042231f2c00fadbf3804e18b074e25eef9f5f
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 15:35:29 2023 -0700
+
+    Third commit： code cleanup and fixed the output file size
+
+commit 2cf0fe886525eda49cbde4afdd2524efaf93aadc
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 09:42:31 2023 -0700
+
+    Algorithm-Based Optimization, added Function to find the next power of 2 greater than or equal to n, Function to perform convolution with overlap-add using FFT
+
+commit 8be2c113399caf4b325054903d8d5ef003dff822
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Dec 6 09:35:38 2023 -0700
+
+    Baseline Program Part finished, made function to read wave file header, Function to write wave file header, Function to read audio data from a wave file, Function to write audio data to a wave file, Function to perform convolution in the time domain, Function to extract the real part and scale

@@ -1,0 +1,29 @@
+commit f39f344df4e586fd5fc605cbd491bd92a5b80e8c (HEAD -> master)
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Thu Oct 5 23:47:55 2023 -0600
+Real Final Version for Assignment1 Fixed showUserCommand loop problem
+
+commit 68e359f79120b63e107f966a928e0fa3fa0bcbca
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Thu Oct 5 20:51:50 2023 -0600
+Final Version for CPSC501 Assignment1，readme added
+
+commit 0a1ae30f7a8d2a94575669cfccb24c092488f5e8
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Thu Oct 5 20:40:25 2023 -0600
+Final Version for CPSC501 Assignment1
+
+commit 6bbc4d7ee5c3f6b5c546d27d79549caa82a1d61a
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Thu Oct 5 17:51:37 2023 -0600
+added testLogin and change all functions to protected
+
+commit bf775af11ea9c307a50a768b46e8fd3fb73891c3
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Thu Oct 5 09:26:50 2023 -0600
+Refactored the code structure and separated some functions into classes
+
+commit 8cfc482a590b1df8b8fecc9dc314f2ac3b587b39
+Author: ZhezhengWang <wzhezheng@gmail.com>
+Date:   Wed Oct 4 22:19:48 2023 -0600
+1st update ATMSystem and Junit test files
